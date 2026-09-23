@@ -1,0 +1,10 @@
+title: iGaming Resources
+description: Articles, guides and resources about iGaming, online casino technology and gaming software.
+url: "https://alexbrooks-crdm.github.io/iGaming-resources/"
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
