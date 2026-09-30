@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -7,9 +8,10 @@ layout: default
   <header class="article-header">
 
     {% if page.categories %}
-      <div class="article-category">
+      <a class="article-category"
+         href="{{ '/categories/#' | append: page.categories.first | slugify | relative_url }}">
         {{ page.categories | first }}
-      </div>
+      </a>
     {% endif %}
 
     <h1>{{ page.title }}</h1>
@@ -20,11 +22,61 @@ layout: default
 
   </header>
 
+  {% if page.image %}
+    <img
+      class="article-featured-image"
+      src="{{ page.image | relative_url }}"
+      alt="{{ page.image_alt | default: page.title | escape }}"
+    >
+  {% endif %}
 
   <div class="article-content">
-
     {{ content }}
-
   </div>
+
+  {% assign current_category = page.categories.first %}
+  {% assign related_posts = site.categories[current_category] %}
+
+  {% if related_posts.size > 1 %}
+    <section class="related-articles">
+
+      <h2>Related Articles</h2>
+
+      <div class="article-grid">
+
+        {% assign related_count = 0 %}
+
+        {% for related in related_posts %}
+
+          {% if related.url != page.url and related_count < 3 %}
+
+            <article class="article-card">
+
+              <h3>
+                <a href="{{ related.url | relative_url }}">
+                  {{ related.title }}
+                </a>
+              </h3>
+
+              <p>
+                {{ related.description | default: related.excerpt | strip_html | truncate: 130 }}
+              </p>
+
+              <div class="article-date">
+                {{ related.date | date: "%d %B %Y" }}
+              </div>
+
+            </article>
+
+            {% assign related_count = related_count | plus: 1 %}
+
+          {% endif %}
+
+        {% endfor %}
+
+      </div>
+
+    </section>
+  {% endif %}
 
 </article>
