@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexbrooks-crdm.github.io/iGaming-resources/sitemap.xml
