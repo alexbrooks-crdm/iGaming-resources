@@ -470,3 +470,16 @@ main {
 .author-box a:hover {
   text-decoration: underline;
 }
+.category-heading {
+  margin-bottom: 25px;
+}
+
+.category-heading h2 {
+  margin-bottom: 8px;
+}
+
+.category-heading p {
+  margin: 0;
+  color: #6b7280;
+  font-size: 15px;
+}
