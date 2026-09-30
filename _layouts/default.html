@@ -39,7 +39,7 @@
         content="{{ page_description | escape }}">
 
   <meta property="og:url"
-        content="{{ page.url | absolute_url }}">
+        content="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <meta property="og:site_name"
         content="{{ site.title | escape }}">
