@@ -107,9 +107,10 @@ layout: default
 "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
 {% endif %}
   "author": {
-    "@type": "Person",
-    "name": "Alex Brooks"
-  },
+  "@type": "Person",
+  "name": "Alex Brooks",
+  "url": "{{ '/author/' | absolute_url }}"
+},
   "publisher": {
     "@type": "Organization",
     "name": "{{ site.title | escape }}"
