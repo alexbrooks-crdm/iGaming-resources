@@ -3,7 +3,21 @@ layout: default
 ---
 
 <article class="article-container">
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
 
+  <span>›</span>
+
+  {% if page.categories %}
+    <a href="{{ '/categories/' | relative_url }}#{{ page.categories.first | slugify }}">
+      {{ page.categories.first }}
+    </a>
+
+    <span>›</span>
+  {% endif %}
+
+  <span>{{ page.title }}</span>
+</nav>
   <header class="article-header">
 
     {% if page.categories %}
