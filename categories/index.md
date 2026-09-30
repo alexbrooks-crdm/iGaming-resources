@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Categories
-description: "Browse iGaming articles and resources by category."
+title: "iGaming Categories"
+description: "Browse iGaming articles, guides and resources by category, covering casino technology, online gaming, payments and industry trends."
 permalink: /categories/
 ---
 
@@ -9,10 +9,14 @@ permalink: /categories/
   <div class="container">
 
     <div class="section-heading">
+
       <h1>iGaming Categories</h1>
+
       <p>
-        Explore articles and resources organised by topic.
+        Explore practical articles, guides and resources organised by
+        iGaming topic.
       </p>
+
     </div>
 
     {% if site.categories %}
@@ -22,11 +26,29 @@ permalink: /categories/
         {% assign category_name = category[0] %}
         {% assign category_posts = category[1] %}
 
-        <div class="category-section" id="{{ category_name | slugify }}">
+        <section
+          class="category-section"
+          id="{{ category_name | slugify }}"
+          aria-labelledby="category-{{ category_name | slugify }}"
+        >
 
-          <h2>
-            {{ category_name }}
-          </h2>
+          <div class="category-heading">
+
+            <h2 id="category-{{ category_name | slugify }}">
+              {{ category_name }}
+            </h2>
+
+            <p>
+              Explore {{ category_posts.size }}
+              {% if category_posts.size == 1 %}
+                article
+              {% else %}
+                articles
+              {% endif %}
+              about {{ category_name | downcase }}.
+            </p>
+
+          </div>
 
           <div class="article-grid">
 
@@ -41,11 +63,17 @@ permalink: /categories/
                 </h3>
 
                 {% if post.description %}
-                  <p>{{ post.description }}</p>
+
+                  <p>
+                    {{ post.description }}
+                  </p>
+
                 {% else %}
+
                   <p>
                     {{ post.excerpt | strip_html | truncate: 140 }}
                   </p>
+
                 {% endif %}
 
                 <div class="article-date">
@@ -58,13 +86,15 @@ permalink: /categories/
 
           </div>
 
-        </div>
+        </section>
 
       {% endfor %}
 
     {% else %}
 
-      <p>No categories available yet.</p>
+      <p>
+        No categories are available yet.
+      </p>
 
     {% endif %}
 
