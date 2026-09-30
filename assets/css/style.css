@@ -440,3 +440,33 @@ main {
   color: #111827;
   font-weight: 500;
 }
+.author-box {
+  margin-top: 60px;
+  padding: 30px;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #f9fafb;
+}
+
+.author-box h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: #111827;
+}
+
+.author-box p {
+  margin-bottom: 18px;
+  line-height: 1.7;
+  color: #4b5563;
+}
+
+.author-box a {
+  color: #111827;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.author-box a:hover {
+  text-decoration: underline;
+}
