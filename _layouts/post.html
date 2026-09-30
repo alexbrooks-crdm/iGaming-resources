@@ -30,8 +30,9 @@ layout: default
     <h1>{{ page.title }}</h1>
 
     <div class="article-meta">
-      By Alex Brooks · Published on {{ page.date | date: "%d %B %Y" }}
-    </div>
+  By <a href="{{ '/author/' | relative_url }}">Alex Brooks</a>
+  · Published on {{ page.date | date: "%d %B %Y" }}
+</div>
 
   </header>
 
