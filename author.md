@@ -135,3 +135,13 @@ permalink: /author/
   </div>
 
 </section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alex Brooks",
+  "url": "{{ page.url | absolute_url }}",
+  "description": "{{ page.description | escape }}",
+  "jobTitle": "iGaming Consultant and Industry Writer"
+}
+</script>
