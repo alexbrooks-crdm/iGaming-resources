@@ -306,3 +306,16 @@ main {
   }
 
 }
+/* Categories page */
+
+.category-section {
+  margin-bottom: 65px;
+}
+
+.category-section h2 {
+  margin: 0 0 25px;
+  font-size: 28px;
+  color: #111827;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #e5e7eb;
+}
