@@ -22,7 +22,7 @@ permalink: /categories/
         {% assign category_name = category[0] %}
         {% assign category_posts = category[1] %}
 
-        <div class="category-section">
+        <div class="category-section" id="{{ category_name | slugify }}">
 
           <h2>
             {{ category_name }}
