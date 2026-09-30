@@ -47,6 +47,27 @@ layout: default
   <div class="article-content">
     {{ content }}
   </div>
+  <section class="author-box">
+
+  <div class="author-box-content">
+
+    <h2>About the Author</h2>
+
+    <p>
+      <strong>Alex Brooks</strong> is an iGaming consultant and industry
+      writer with more than 10 years of experience across online casino
+      operations, gaming technology and digital marketing. He has worked
+      with more than 100 operators across markets including Latin America,
+      South Africa, Europe and the CIS region.
+    </p>
+
+    <a href="{{ '/author/' | relative_url }}">
+      Read more about Alex Brooks
+    </a>
+
+  </div>
+
+</section>
 
   {% assign current_category = page.categories.first %}
   {% assign related_posts = site.categories[current_category] %}
