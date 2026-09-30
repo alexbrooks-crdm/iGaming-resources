@@ -126,6 +126,12 @@ permalink: /author/
       iGaming industry developments.
     </p>
 
+    <p>
+      <a href="{{ '/articles/' | relative_url }}">
+        Browse all articles by Alex Brooks
+      </a>
+    </p>
+
   </div>
 
 </section>
