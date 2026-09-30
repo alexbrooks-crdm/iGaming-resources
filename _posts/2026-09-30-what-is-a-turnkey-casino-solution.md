@@ -9,7 +9,7 @@ tags:
   - turnkey casino
   - casino software
   - iGaming
-image: /assets/images/turnkey-casino-solution.webp
+image: /assets/images/turnkey-casino-solution.png
 image_alt: "Online casino platform technology dashboard"
 ---
 
