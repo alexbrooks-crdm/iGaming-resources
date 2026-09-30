@@ -8,7 +8,7 @@ layout: default
 
     {% if page.categories %}
       <a class="article-category"
-         href="{{ '/categories/#' | append: page.categories.first | slugify | relative_url }}">
+         href="{{ '/categories/' | relative_url }}#{{ page.categories.first | slugify }}">
         {{ page.categories | first }}
       </a>
     {% endif %}
