@@ -18,742 +18,450 @@ image: /assets/images/online-casino-uzbekistan-guide.webp
 image_alt: "Online casino technology and regulatory planning for the Uzbekistan market"
 ---
 
-Uzbekistan is becoming one of the more interesting regulated iGaming markets in Central Asia.
+# How to Start an Online Casino in Uzbekistan in 2026: A Practical Guide for Operators
 
-But starting an online casino here is not as simple as getting an offshore gambling licence, translating your website into Uzbek or Russian, and starting to accept players.
+Uzbekistan has become a market of interest for iGaming businesses looking to expand into Central Asia. Regulatory changes have created a framework for licensed online games based on risk and online bookmaking, but entering the market requires more than launching a website and connecting games.
 
-Uzbekistan has created its own regulated structure.
+Operators need to understand the licensing framework, local company requirements, payment infrastructure, technical standards, player verification and ongoing compliance obligations before investing in a platform.
 
-You need a local legal entity. You need the appropriate licence. Your platform needs to meet local technical requirements. Player verification, payments, reporting, responsible gambling, and regulatory integrations all need to be considered before launch.
-
-Having worked around iGaming for more than 10 years as a consultant and more than three years from the operator side, one thing I have learned is that the platform is rarely the hardest part of entering a regulated market.
-
-The harder part is making sure the company, licence, technology, payments, and daily operations all fit together.
-
-This guide explains how I would approach starting an online casino in Uzbekistan in 2026.
+This guide explains the main steps involved in planning an online casino business in Uzbekistan in 2026. It is intended for entrepreneurs, existing operators and iGaming businesses evaluating the market.
 
 *Last reviewed: 26 October 2026.*
 
-## Can You Legally Start an Online Casino in Uzbekistan?
+**Important:** Gambling laws, licensing conditions, tax rules and regulatory guidance can change. Treat this article as a business-planning overview, not legal or tax advice. Confirm the current requirements with Uzbekistan's regulator and qualified local advisers before committing funds or accepting players.
 
-Yes, subject to the applicable licensing requirements.
+## 1. Understand Uzbekistan's online gambling framework
 
-Uzbekistan introduced a regulated framework for online risk-based games and bookmaking activities from 1 January 2025.
+Uzbekistan introduced a regulatory framework for licensed online games based on risk and bookmaking activities, with the relevant licensing regime taking effect on 1 January 2025.
 
-Uzbekistan's [official Presidential Decree PF-68](https://www.lex.uz/docs/6899275?ONDATE=20.05.2026) established the regulatory direction that allowed licensed online risk-based games and bookmaking activities from January 1, 2025.
+The framework is associated with Presidential Decree PF-68. Operators should review the official text and subsequent implementing regulations to understand which activities are permitted, how licences are issued and which technical and operational conditions apply.
 
-The National Agency for Prospective Projects, commonly known as NAPP, is responsible for licensing and regulating these activities.
+You can read the <a href="https://www.lex.uz/docs/6899275?ONDATE=20.05.2026" target="_blank" rel="nofollow">official Presidential Decree PF-68</a> for the underlying legal framework.
 
-But there is an important condition.
+The National Agency for Perspective Projects (NAPP) is an important authority in this area. Its published guidance and licence information should be part of any operator's initial research.
 
-You cannot simply operate in Uzbekistan through a foreign gambling company and assume an offshore licence will cover you.
+Start with <a href="https://napp.uz/oz/news/lotereyalar-va-tavakkalchilikka-asoslangan-boshqa-o-yinlarni-tartibga-solish-maqsadida-qabul-qilingan-normativ-huquqiy-hujjatlar-yuzasidan-ma-lumot" target="_blank" rel="nofollow">NAPP's official regulatory guidance</a> and review <a href="https://napp.uz/en/pages/rbglr" target="_blank" rel="nofollow">NAPP's official licence register</a> for current information about licensed businesses.
 
-The licensing requirements state that these activities must be carried out by a legal entity that is a resident of Uzbekistan.
+Do not assume that a licence for one activity automatically covers another. Online casino games, betting products and other gambling-related services may have different requirements.
 
-The platform also needs to meet local infrastructure and regulatory requirements.
+Before choosing a business model, clarify:
 
-So the short answer is:
+- Which gambling activities you intend to offer.
+- Which licence or authorisation applies to those activities.
+- Whether your proposed ownership and company structure are eligible.
+- What technical systems and reporting arrangements are required.
+- Which player verification, responsible gambling and anti-money laundering controls apply.
+- Whether any restrictions apply to marketing, payments or the games you plan to provide.
 
-Yes, you can start an online casino in Uzbekistan, but you need to build it around the Uzbekistan licensing framework from the beginning.
+Getting these questions answered early can prevent expensive changes later.
 
-If you are still researching the market itself, start with this overview of the [Uzbekistan iGaming market](https://playagegaming.com/en/market/uzbekistan) before deciding how you want to enter.
+## 2. Research the Uzbekistan iGaming market
 
-## Step 1: Understand the Uzbekistan Gambling Licence First
+Regulatory permission is only one part of the business decision. You also need to establish whether your intended product has a realistic commercial opportunity.
 
-Do not start by choosing games.
+Research the local market before deciding on your platform, game catalogue, marketing budget or launch date.
 
-Do not start with the casino design.
+If you are still researching the market itself, start with this overview of the <a href="https://playagegaming.com/en/market/uzbekistan" target="_blank">Uzbekistan iGaming market</a> before deciding how you want to enter.
 
-And do not sign a long-term platform contract before understanding the licence.
+### Assess your target audience
 
-Start with regulation.
+Consider the following questions:
 
-Uzbekistan distinguishes between different gambling activities. For an online casino operator, the relevant category is the organisation of risk-based games on the internet.
+- Which player segments are you targeting?
+- Are you planning to focus on casino games, sports betting or both?
+- Which devices are your intended customers most likely to use?
+- What local language and customer support arrangements will you need?
+- Which payment methods can legally and practically support your business?
+- How competitive is the market for the products you want to offer?
 
-Bookmaking is treated separately.
+Do not build a business plan around assumptions alone. Use credible market research, customer interviews and advice from people familiar with the local regulatory environment.
 
-This becomes important if you eventually want to operate both casino and sportsbook because the licensing structure needs to match the products you offer.
+### Review the competitive landscape
 
-Before spending money on technology, you should understand:
+Study existing operators and their product offerings, but avoid copying their business models without understanding their licensing arrangements and costs.
 
-- Which licence you need.
-- Which company can apply.
-- What capital requirements apply.
-- What reserve requirements apply.
-- What state duties apply.
-- What technical conditions apply.
-- What documents NAPP requires.
-- What compliance obligations continue after licensing.
+Look at their game selection, website usability, mobile experience, customer support, promotions and payment options. Where reliable information is available, assess how they attract and retain players.
 
-These numbers and requirements can change as Uzbekistan's Base Reference Value and regulations are updated.
+The purpose is to identify a clear market position, not simply to offer the same features as every competitor.
 
-For that reason, I would not build a financial model from an old article or third-party licence calculator.
+For a broader view of how Uzbekistan fits into the international iGaming industry, it is also useful to review the latest <a href="https://playagegaming.com/en/blogs/online-gambling-market-2026" target="_blank">online gambling market 2026 analysis</a> before finalising your expansion strategy.
 
-Use the current regulations and speak with qualified local legal counsel.
+## 3. Decide on your business model
 
-For a more detailed breakdown of the licensing process, requirements, and operator responsibilities, read this [Uzbekistan gambling license guide for operators](https://playagegaming.com/en/blogs/uzbekistan-gambling-license-guide) before preparing your application.
+Once you understand the market and regulatory framework, choose how you want to establish and operate the business.
 
-Operators can also check [NAPP's official licence register](https://napp.uz/en/pages/rbglr) to see businesses currently listed under Uzbekistan's regulated online gaming and bookmaking framework.
+The right model depends on your budget, technical experience, desired level of control and the licence requirements that apply to your proposed activity.
 
-## Step 2: Establish the Right Local Company Structure
+### Option 1: Build a custom platform
 
-This is one of the most important differences between Uzbekistan and many offshore gambling jurisdictions.
+A custom platform is developed around your specific business requirements.
 
-The licensed operator needs to be an Uzbekistan-resident legal entity.
+It may provide greater flexibility over the user experience, architecture and product roadmap. However, it usually requires more development time, technical oversight and ongoing maintenance.
 
-For an international operator, that normally means creating the correct local company structure or working within a legitimate local structure that satisfies the licensing rules.
+You may need to coordinate separate suppliers for:
 
-Do this before you get too deep into platform implementation.
+- Frontend and mobile development.
+- Casino games and game integrations.
+- Payment processing.
+- Player account management.
+- Customer relationship management (CRM).
+- Reporting and analytics.
+- Security and infrastructure.
+- Affiliate management and marketing tools.
 
-You need clarity around:
+This approach may suit established operators with substantial technical resources and a clear reason to build their own technology.
 
-- Who owns the operating company?
-- Who holds the licence?
-- Who signs contracts with technology providers?
-- Who controls payments?
-- Who employs the local operating team?
-- Who is responsible to the regulator?
+### Option 2: Use a turnkey casino platform
 
-These questions sound administrative, but they affect almost everything that comes later.
+A turnkey solution provides a set of integrated systems that can reduce the amount of development required to launch and manage an operation.
 
-Your payment provider may need one structure.
+Depending on the supplier and agreement, the package may include casino software, a content management system (CMS), CRM tools, payment integrations, game access, reporting, player management and other operational features.
 
-The platform contract may require another.
+A turnkey solution does not remove the operator's legal responsibilities. You must still establish that the business, licence, supplier arrangements and technology meet the applicable requirements.
 
-The regulator may require specific ownership information.
+If you want greater operational control while running under your own licence, a <a href="https://playagegaming.com/en/market/uzbekistan/turnkey-casino" target="_blank">turnkey casino platform for Uzbekistan</a> can remove much of the development work while still allowing you to operate your own brand.
 
-Your banking setup will also depend on the legal entity.
+### Option 3: Use a white-label arrangement
 
-According to [NAPP's official regulatory guidance](https://napp.uz/oz/news/lotereyalar-va-tavakkalchilikka-asoslangan-boshqa-o-yinlarni-tartibga-solish-maqsadida-qabul-qilingan-normativ-huquqiy-hujjatlar-yuzasidan-ma-lumot), licensed operators need to meet requirements covering local company structure, technical infrastructure, player records, financial processes, and ongoing compliance.
+A white-label arrangement generally allows a business to launch under its own brand using technology and services supplied by another company.
 
-Get the company structure right first.
+The level of control varies considerably between providers. Some arrangements place many operational functions with the supplier, while others give the operator more responsibility.
 
-## Step 3: Build a Realistic Budget
+Before choosing this model, establish who holds the relevant licence, who contracts with players, who controls payments and player data, and which party is responsible for compliance.
 
-Starting an online casino in Uzbekistan is not a low-cost experiment.
+**Do not select a white-label arrangement solely because it appears easier to launch.** Confirm that the structure is permitted under the current Uzbekistan framework and that the responsibilities of each party are documented clearly.
 
-The licensing framework includes financial requirements around areas such as charter capital, reserve funds, and state duties.
+## 4. Understand the licensing and company requirements
 
-Those costs are separate from the actual casino business.
+Licensing should be one of your first workstreams, not something you leave until the platform is ready.
 
-You still need to budget for:
+The exact requirements depend on the activities you intend to provide and the rules in force when you apply. Requirements may cover company registration, ownership, management, financial capacity, technical systems, records, reporting and ongoing supervision.
 
-- Legal and licensing work.
-- Platform technology.
-- Local hosting.
-- Game integrations.
-- Payment integrations.
-- KYC and compliance.
-- Staff.
-- Customer support.
-- CRM.
-- Affiliate management.
-- Content.
-- Testing.
-- Ongoing technical support.
+According to <a href="https://napp.uz/oz/news/lotereyalar-va-tavakkalchilikka-asoslangan-boshqa-o-yinlarni-tartibga-solish-maqsadida-qabul-qilingan-normativ-huquqiy-hujjatlar-yuzasidan-ma-lumot" target="_blank" rel="nofollow">NAPP's official regulatory guidance</a>, operators should examine the requirements relating to local company structure, technical infrastructure, player records, financial processes and ongoing compliance.
 
-This is why I do not recommend looking only at the monthly platform fee.
+Use the official guidance to build a requirements checklist with a qualified local legal adviser.
 
-An online casino is a business infrastructure project.
+### Questions to resolve before applying
 
-The software is one part of the cost.
+Before making major investments, clarify:
 
-The regulated operation around it is another.
+1. **Company eligibility:** What legal entity and ownership structure are required?
+2. **Licence scope:** Which licence or authorisation covers your proposed products?
+3. **Financial requirements:** What capital, security deposit, fees or other financial conditions apply?
+4. **Technical requirements:** Which systems must be certified, registered, connected or approved?
+5. **Player protection:** What identity checks, age restrictions, account controls and responsible gambling measures are required?
+6. **Reporting:** Which financial, player and operational records must be maintained and submitted?
+7. **Supplier arrangements:** Which technology providers, game suppliers and payment partners can you use?
+8. **Ongoing obligations:** What renewals, audits, reporting and other compliance tasks will be required?
 
-## Step 4: Decide How You Want to Build the Casino
+For a more detailed breakdown of the licensing process, requirements and operator responsibilities, read this <a href="https://playagegaming.com/en/blogs/uzbekistan-gambling-license-guide" target="_blank">Uzbekistan gambling license guide for operators</a> before preparing your application.
 
-Once the licensing route is clear, you can think about technology.
+### Check the current licence register
 
-There are basically two broad options.
+Do not rely only on a supplier's marketing material or a statement that another operator is licensed.
 
-You can build your casino technology from scratch.
+Use <a href="https://napp.uz/en/pages/rbglr" target="_blank" rel="nofollow">NAPP's official licence register</a> to check businesses listed under the regulated online gaming and bookmaking framework. If the information you need is not clear, seek confirmation directly from the relevant authority or your legal adviser.
 
-Or you can use existing casino infrastructure and configure it around your brand and market.
+## 5. Choose the right casino software and technical infrastructure
 
-For most new operators, building from scratch makes little commercial sense.
+Your technology will affect the player experience, operating costs, reporting capabilities and ability to scale.
 
-You would need to develop or integrate:
+A platform should be assessed against your actual business and regulatory requirements rather than a long list of advertised features.
 
-- Player Account Management.
-- Wallet technology.
-- Game providers.
-- Payments.
-- KYC.
-- CRM.
-- Bonuses.
-- Affiliate management.
-- CMS.
-- Reporting.
-- Back-office tools.
-- Security.
+### Core platform components
 
-Then you need to keep maintaining everything.
+Depending on your business model, you may need the following components.
 
-That can turn a casino business into a software development company.
+**Player account management**
 
-A more practical route for many licensed operators is using a ready-built platform.
+The platform should support account creation, secure authentication, player records and the account controls required for your operation.
 
-If you want greater operational control while running under your own licence, a [turnkey casino platform for Uzbekistan](https://playagegaming.com/en/market/uzbekistan/turnkey-casino) can remove much of the development work while still allowing you to operate your own brand.
+**Content management system**
 
-The important thing is not simply whether the provider calls the product "turnkey."
+A CMS helps authorised staff manage website pages, promotions, navigation and other content without relying on developers for every change.
 
-Ask exactly what is included.
+**Customer relationship management**
 
-## Step 5: Check Whether the Platform Can Actually Work in Uzbekistan
+CRM tools help operators organise player communication, segment users and manage retention campaigns. Campaigns should follow applicable marketing, privacy and responsible gambling requirements.
 
-This is where operators need to be careful.
+**Game integration**
 
-A platform can work perfectly in another country and still be unsuitable for Uzbekistan.
+Check which games and suppliers are available, whether they are approved for your intended market and how game performance and settlement data are handled.
 
-The local rules include technical requirements that affect how the platform is deployed.
+**Payments**
 
-One important requirement to investigate is local infrastructure.
+Your payment setup should support permitted deposit and withdrawal methods, transaction monitoring, reconciliation and clear records. Do not assume that a method used in another country is suitable or lawful in Uzbekistan.
 
-The applicable licensing framework includes requirements concerning the electronic platform and servers located in Uzbekistan. Confirm the precise scope and implementation requirements with NAPP, local counsel and your technology provider.
+**Reporting and analytics**
 
-Ask your technology provider:
+Operational reports can help you monitor registrations, player activity, payment performance, revenue and other business indicators. Confirm that the reports also support any required regulatory submissions.
 
-- Can the platform support the required local server deployment?
-- How will game providers connect?
-- Where will player data be stored?
-- How will payment systems connect?
-- How are software updates deployed?
-- How will regulatory integrations work?
-- How will backups and redundancy be handled?
+**Security and infrastructure**
 
-Do not assume that because the provider operates in Europe, Curaçao, Africa, or LATAM, the same architecture can simply be copied into Uzbekistan.
+Review access controls, encryption, backups, incident response, system availability and how sensitive information is protected.
 
-Local compliance needs to be part of the platform plan.
+### Turnkey versus custom development
 
-## Step 6: Plan for the Unified State Register
+| Consideration | Turnkey platform | Custom platform |
+|---|---|---|
+| Initial development | Usually reduced | Usually greater |
+| Time to prepare the product | Depends on integrations and approvals | Depends on development scope |
+| Customisation | Depends on supplier capabilities | Potentially extensive |
+| Technical responsibility | Shared according to contract | Greater direct responsibility |
+| Ongoing costs | Supplier fees and agreed services | Development, infrastructure and maintenance |
+| Supplier dependency | Can be significant | Depends on the technology architecture |
 
-Uzbekistan's regulatory structure includes the Unified State Register of Bets and Players.
+These are general comparisons, not guarantees. Ask suppliers for a detailed scope, implementation plan, pricing structure and list of exclusions before making a decision.
 
-This matters because the casino cannot operate as a completely isolated system.
+### Questions to ask a software provider
 
-Player and financial activity must work within the applicable regulatory framework.
+- Which parts of the platform are included in the quoted price?
+- Which games and payment methods can be integrated for the intended market?
+- What technical and security documentation can the provider supply?
+- How are player records, reports and data exports handled?
+- What happens if an integration fails?
+- Which services incur additional fees?
+- What support is available after launch?
+- Can the platform accommodate the reporting and control requirements identified by your legal adviser?
 
-That affects areas such as:
+If sportsbook is part of your future plan, review the available <a href="https://playagegaming.com/en/market/uzbekistan/sportsbook-software" target="_blank">sportsbook software for Uzbekistan</a> to understand the infrastructure required to manage betting, players, payments, risk, CRM and daily sportsbook operations.
 
-- Player registration.
-- Identification.
-- Deposits.
-- Withdrawals.
-- Wagers.
-- Winnings.
-- Player restrictions.
-- Transaction records.
+## 6. Plan payment processing carefully
 
-In practical terms, your casino needs more than a good-looking frontend.
+Payment processing is a core operational requirement. A payment method may be technically available but unsuitable for your business because of regulatory restrictions, provider policies, settlement arrangements or commercial terms.
 
-Your Player Account Management system, wallet, payment infrastructure, and reporting tools need to communicate properly with the systems required in Uzbekistan.
+Before integrating any payment service provider (PSP), confirm that the provider supports your intended business and jurisdiction.
 
-This is one of the areas I would discuss with both the platform provider and local regulatory counsel before signing a contract.
+### What to assess
 
-## Step 7: Build KYC Into Registration
+**Local payment availability**
 
-KYC should not be something you add after the casino is finished.
+Establish which payment methods can be used for your proposed activity and whether any local banking or payment requirements apply.
 
-Build it into the player journey from day one.
+**Deposits and withdrawals**
 
-The registration process should be designed around the verification requirements that apply to the Uzbekistan market.
+Review the complete transaction journey, including payment confirmation, withdrawals, failed transactions, refunds where applicable and customer support procedures.
 
-Depending on the applicable rules, this may involve checking:
+**Settlement and reconciliation**
 
-- Identity.
-- Age.
-- Eligibility.
-- Restricted-player status.
-- Account information.
-- Anti-money laundering information.
+Understand settlement timing, reporting, transaction references, reserves and how discrepancies will be resolved.
 
-The exact process should follow current regulatory requirements.
+**Fees**
 
-From a conversion perspective, you want registration to be simple.
+Compare setup charges, transaction fees, minimum monthly fees, currency conversion costs and any additional charges.
 
-From a compliance perspective, you need the required information before allowing activity that should be restricted.
+**Fraud monitoring**
 
-The solution is not removing KYC.
+Ask how suspicious transactions, account misuse and payment disputes are identified and escalated.
 
-The solution is making KYC as efficient as possible.
+**Regulatory requirements**
 
-A good casino platform should therefore treat verification as part of the player account, not as a completely separate system.
+Confirm whether payment processing arrangements need approval, specific documentation or additional controls. Obtain professional advice rather than assuming that a provider's availability means the arrangement is permitted.
 
-## Step 8: Choose the Casino Games Carefully
+Do not build your business plan around a single payment provider without understanding its limitations and having a contingency plan that complies with the applicable rules.
 
-Once the regulatory and technical foundation is clear, you can start thinking about content.
+## 7. Address compliance, player protection and data security
 
-This is where many operators get distracted by large numbers.
+Compliance continues after a licence is obtained. Operators need processes, records and trained staff to manage their obligations throughout the life of the business.
 
-20,000 games sounds better than 5,000.
+The exact controls required should be confirmed against current legislation, licence conditions and regulator guidance.
 
-But game count alone does not build a successful casino.
+### Identity and age verification
 
-I would look at:
+Establish how player identity and age will be verified, which records must be retained and how accounts that fail verification will be handled.
 
-- Which providers can legally be offered?
-- Which games are suitable for the target market?
-- Which providers already have recognition?
-- Do you have slots?
-- Is live casino permitted and appropriate for the proposed operation?
-- Which table games are available?
-- Are crash or instant games permitted?
-- Can your team manage the game lobby?
-- Can individual providers or games be enabled and disabled?
-- Can performance be tracked?
+### Anti-money laundering controls
 
-Your casino lobby should be something your team can actively manage.
+Obtain advice on the anti-money laundering and counter-terrorist financing obligations that apply to your operation. Depending on the rules, controls may include risk assessment, transaction monitoring, record keeping, escalation procedures and reporting.
 
-It should not be a warehouse containing thousands of games that nobody ever reviews.
+### Responsible gambling
 
-## Step 9: Plan Payments Before Launch
+Review the responsible gambling measures required for your licence and products. These may include player information, account restrictions, self-exclusion and procedures for identifying or responding to risky behaviour.
 
-Payments should be discussed much earlier than most first-time operators expect.
+Do not assume that a feature is sufficient simply because it is available in your software. Confirm that it meets the applicable requirements and is configured correctly.
 
-You need to understand how players will move through the following journey:
+### Data protection and security
 
-**Deposit → account balance → play → withdrawal**
+Identify what personal and financial information you collect, why it is needed, where it is stored and which parties can access it.
 
-Every part of that journey needs to work correctly.
+Put appropriate measures in place for access management, data retention, incident response, backups and supplier access. Confirm which data protection laws apply to your business and its customers.
 
-Your platform should allow the relevant team to see:
+### Marketing and promotions
 
-- Deposit status.
-- Withdrawal status.
-- Player balance.
-- Transaction history.
-- Failed payments.
-- Pending transactions.
-- Payment method.
-- Financial reporting.
+Before launching campaigns, establish which advertising channels, promotional offers and player communications are permitted.
 
-Payments also need to fit the Uzbekistan regulatory framework.
+Review the applicable rules for bonuses, promotional terms, affiliate marketing, age restrictions and responsible gambling messaging. Marketing practices that are accepted in one market may not be suitable in another.
 
-Do not assume that a payment option available internationally can automatically be used in the local licensed operation.
+## 8. Build a realistic operating budget
 
-Confirm the permitted methods and required payment flow before implementation.
+There is no single reliable cost for starting an online casino in Uzbekistan. The total depends on the licence requirements, business structure, platform model, supplier agreements, staffing, marketing and operational scale.
 
-This is also where my crypto background makes me cautious.
+Prepare a budget based on written quotations and professional advice rather than relying on a generic launch-cost estimate.
 
-I have spent the last five years learning and teaching about crypto, mainly around secure storage and practical use rather than speculation.
+### Costs to include in your plan
 
-Crypto can be a useful payment technology in many international businesses.
+| Cost area | What to investigate |
+|---|---|
+| Legal and licensing | Company setup, legal advice, applications, licence-related costs and ongoing obligations |
+| Platform | Setup, monthly fees, customisation, hosting and maintenance |
+| Games | Integration charges, commercial terms and any applicable revenue share |
+| Payments | Integration, transaction fees, settlement terms and reserves |
+| Compliance | Verification tools, monitoring, reporting and professional services |
+| Staffing | Technical, operational, customer support, finance and compliance roles |
+| Marketing | Research, permitted advertising, content and customer acquisition |
+| Security | Monitoring, testing, backups and incident response |
+| Ongoing operations | Support, software updates, supplier management and administration |
 
-But that does not mean an operator should automatically add crypto deposits in every regulated gambling market.
+### Understand the reported tax arrangements
 
-Regulation comes first.
+Tax treatment can materially affect your business model. Do not assume that a reported rate applies to every operator or that it remains in force under the same conditions.
 
-If local rules do not permit a particular payment method, technical capability is irrelevant.
+Some reporting has referred to a 4% turnover tax arrangement associated with a three-year tax experiment beginning on 1 July 2026. Before including this figure in your financial forecast, verify the current legislation, the exact tax base, eligibility conditions, effective dates and any amendments with a qualified Uzbekistan tax adviser.
 
-## Step 10: Build the Back Office for the People Running the Casino
+Your budget should also account for the possibility that licensing, technical approval or supplier integration takes longer than expected. Maintain sufficient working capital to cover operating costs during delays.
 
-Players see the website.
+## 9. Plan the launch timeline
 
-Your team sees the back office.
+A launch timeline should be built around regulatory milestones and supplier dependencies, not just the date when the website is expected to be ready.
 
-That is why I always recommend spending serious time inside the operator dashboard during a platform demo.
+The actual timeline will vary according to the application process, documentation, company setup, platform configuration, payment integrations and any required testing or approvals.
 
-Do not spend the entire demo looking at animations and game tiles.
+A practical project plan can include these stages:
 
-Ask to see how your team will actually work.
+### Stage 1: Market and legal research
 
-- Can support staff search for a player?
-- Can finance review a transaction?
-- Can marketing create a promotion?
-- Can CRM teams build player segments?
-- Can affiliates be tracked?
-- Can reports be exported?
-- Can roles and permissions be controlled?
-- Can a manager see what is happening across the business?
+- Define the proposed products and target audience.
+- Confirm the relevant licensing route.
+- Review ownership, company and financial requirements.
+- Identify initial compliance and reporting obligations.
 
-A casino platform should reduce operational work.
+### Stage 2: Business and supplier planning
 
-It should not create more of it.
+- Compare custom, turnkey and white-label models.
+- Obtain supplier proposals and detailed contracts.
+- Assess game availability and payment options.
+- Build a budget and financial forecast.
 
-## Step 11: Set Up CRM Before You Start Acquiring Players
+### Stage 3: Application and technical preparation
 
-Many new casino operators make the same mistake.
+- Prepare the required company and application documentation.
+- Configure the platform according to the approved business model.
+- Plan identity checks, player controls and reporting.
+- Test security, payment flows and operational procedures.
 
-They spend almost everything on acquisition.
+### Stage 4: Readiness review
 
-Then they start thinking about retention.
+- Confirm the status of required licences and approvals.
+- Check that platform functions meet the identified requirements.
+- Train the team on player support and escalation procedures.
+- Review marketing materials and promotional terms.
+- Resolve outstanding technical, legal and operational issues.
 
-That is backwards.
+### Stage 5: Launch and ongoing monitoring
 
-You should have your basic CRM journeys ready before the first real player arrives.
+Proceed only when the necessary authorisations and operational requirements are in place. After launch, monitor system performance, payment reconciliation, player support, compliance tasks and business results.
 
-At minimum, think about:
+Avoid promising a launch date until the critical regulatory and supplier dependencies have been confirmed.
 
-- New registration.
-- Registration without deposit.
-- First-time depositor.
-- Active player.
-- High-value player.
-- Inactive player.
-- Failed deposit.
-- Returning player.
+## 10. Common mistakes to avoid
 
-Each one may require different communication.
+New operators can reduce avoidable risk by addressing these issues before committing to a launch.
 
-You do not need a huge CRM operation on day one.
+**Choosing a platform before confirming licensing requirements**
 
-But you should have the infrastructure ready.
+A platform may have the right features but still be unsuitable for the proposed business structure or regulatory framework.
 
-The cost of acquiring a player is much easier to justify when you can retain that player.
+**Assuming a supplier handles every legal obligation**
 
-## Step 12: Build an Affiliate System From the Beginning
+Technology providers can supply tools and support, but the operator must understand which responsibilities remain with the business.
 
-Affiliates can become an important acquisition channel for online casino and sportsbook businesses.
+**Underestimating ongoing costs**
 
-But affiliate management becomes messy very quickly if it is handled manually.
+Launch expenses are only part of the budget. Staffing, supplier fees, compliance, support, maintenance and marketing continue after launch.
 
-Your platform should ideally allow you to create accounts for partners and track:
+**Relying on unverified market information**
 
-- Traffic.
-- Registrations.
-- First-time deposits.
-- Revenue.
-- Cost per acquisition.
-- Revenue share.
-- Hybrid agreements.
+Check important regulatory and tax claims against official documents and qualified local advice.
 
-You also need clear rules around what affiliates are allowed to promote, particularly in a regulated market.
+**Ignoring payment limitations**
 
-Do not assume your affiliate partners understand Uzbekistan's advertising rules.
+Confirm the legal, operational and commercial suitability of payment methods before designing the player journey around them.
 
-The operator needs to understand its own regulatory responsibilities and ensure its marketing partners comply with applicable requirements.
+**Launching marketing too early**
 
-## Step 13: Localise the Casino Properly
+Do not start accepting players or run campaigns that conflict with licensing conditions or other applicable requirements.
 
-Localisation is not just translation.
+**Failing to plan for operational problems**
 
-Yes, language matters.
+Document how your team will handle outages, failed payments, player complaints, suspicious activity and other incidents.
 
-Depending on your audience and the applicable rules, you may need Uzbek and Russian, with English also useful for parts of the business.
+## 11. A practical checklist before you start
 
-But localisation also means:
+Use this checklist to organise your initial planning.
 
-- The right payment experience.
-- The right game mix.
-- The right customer support.
-- The right promotions.
-- The right CRM communication.
-- The right responsible gambling information.
-- The right registration flow.
+- [ ] Define whether the business will offer casino games, sportsbook products or both.
+- [ ] Research the Uzbekistan market and your intended customer segments.
+- [ ] Confirm the current legal framework with a qualified local adviser.
+- [ ] Identify the required company structure and licence or authorisation.
+- [ ] Review official NAPP guidance and licence information.
+- [ ] Build a realistic setup and operating budget.
+- [ ] Compare turnkey, white-label and custom platform options.
+- [ ] Confirm game availability and supplier terms.
+- [ ] Verify payment methods and processing arrangements.
+- [ ] Plan identity verification, player protection and compliance processes.
+- [ ] Review data security, reporting and record-keeping requirements.
+- [ ] Confirm which marketing activities and promotions are permitted.
+- [ ] Prepare a launch plan with regulatory and technical dependencies.
+- [ ] Obtain the necessary authorisations before commencing regulated activities.
 
-Players should not feel as if they are using a foreign casino that has simply been translated.
+## Frequently asked questions
 
-The operation should feel designed for the market.
+### Is online gambling legal in Uzbekistan in 2026?
 
-For a broader view of how Uzbekistan fits into the international iGaming industry, it is also useful to review the latest [online gambling market 2026 analysis](https://playagegaming.com/en/blogs/online-gambling-market-2026) before finalising your expansion strategy.
+Uzbekistan has established a framework for licensed online games based on risk and bookmaking activities. Whether a particular business or product is permitted depends on the current legislation, licence conditions and applicable regulatory requirements. Confirm your intended activity with NAPP and a qualified local legal adviser.
 
-## Step 14: Prepare Customer Support Before Launch
+### Do I need a local company to operate an online casino in Uzbekistan?
 
-Do not wait for support tickets before deciding how support will work.
+Company structure and eligibility are important parts of the regulatory assessment. The exact requirements depend on the applicable rules and proposed activity. Confirm the current requirements before registering a business or signing a platform agreement.
 
-Before launch, define:
+### How much does it cost to start an online casino in Uzbekistan?
 
-- Which languages will be supported?
-- Which channels will be available?
-- Who handles payment questions?
-- Who handles KYC questions?
-- Who handles bonus disputes?
-- Who handles account restrictions?
-- When does an issue move to compliance?
-- When does it move to the technology provider?
+There is no universal figure. Costs depend on licensing and legal work, the platform model, games, payment processing, compliance, staffing and marketing. Build your estimate using current professional advice and written supplier quotations.
 
-Support teams need access to the right information.
+### Can I use turnkey casino software?
 
-For example, if a player asks why a withdrawal is pending, the agent should be able to see enough transaction information to understand the situation.
+A turnkey platform can reduce the amount of development work required, but it does not automatically provide a licence or guarantee regulatory compliance. Check whether the proposed structure and platform are suitable for your intended activity and whether all necessary authorisations can be obtained.
 
-They should not need to contact a developer for every basic question.
+### Can I launch a casino and sportsbook on the same platform?
 
-## Step 15: Test the Full Player Journey
-
-Before going live, test the casino as if you are a real player.
-
-Do not only test whether the homepage loads.
-
-Go through the full journey.
-
-1. Register.
-2. Complete verification.
-3. Log in.
-4. Deposit.
-5. Open games.
-6. Use a bonus where applicable.
-7. Check the wallet.
-8. Request a withdrawal.
-9. Contact customer support.
-
-Then repeat the process on different devices.
-
-Test what happens when something fails.
-
-What happens when KYC is rejected?
-
-What happens when a payment fails?
-
-What happens when a player forgets a password?
-
-What happens when a withdrawal requires review?
-
-Good testing is not about proving that the platform works.
-
-It is about finding where it does not work before real players find it.
-
-## Step 16: Do Not Forget Sportsbook Expansion
-
-Even if you are starting with casino only, think about whether sportsbook may become part of the business later.
-
-Adding sportsbook after launch can be a strong expansion route, but it becomes much more complicated if the original casino architecture was never designed for it.
-
-Ideally, you want to avoid giving players:
-
-- Two accounts.
-- Two wallets.
-- Two KYC processes.
-- Two payment environments.
-- Two separate bonus systems.
-
-If sportsbook is part of your future plan, review the available [sportsbook software for Uzbekistan](https://playagegaming.com/en/market/uzbekistan/sportsbook-software) to understand the infrastructure required to manage betting, players, payments, risk, CRM, and daily sportsbook operations.
-
-Casino and bookmaking activities are treated separately under the regulatory framework, so confirm the licensing requirements for both before offering them.
-
-You do not need to launch everything on day one.
-
-You simply do not want today's technology decision to block tomorrow's business plan.
-
-## How Long Does It Take to Launch an Online Casino in Uzbekistan?
-
-There is no single answer.
-
-You need to separate two timelines.
-
-### The technology timeline
-
-A ready-built casino platform can usually be configured faster than developing software from scratch.
-
-Branding, games, payments, CRM, integrations, and testing may be completed within weeks once the requirements are clear.
-
-The actual time depends on the platform, integrations, hosting, testing and compliance requirements.
-
-### The licensing timeline
-
-Licensing is different.
-
-Company formation, documentation, capital preparation, regulatory review, technical compliance, and approval follow their own timelines.
-
-The first licences appearing after the regulatory framework became effective are a useful reminder that licensing should never be treated as a quick administrative step.
-
-So when someone promises:
-
-"Launch your Uzbekistan casino in four weeks."
-
-Ask what they mean.
-
-Four weeks for platform configuration?
-
-Possibly, depending on the project.
-
-Four weeks from having no company and no licence to legally accepting players?
-
-That is a completely different claim.
-
-Keep the two timelines separate.
-
-## How Much Does It Cost to Start an Online Casino in Uzbekistan?
-
-This is another question where I would be careful with simple answers.
-
-You have at least three cost groups.
-
-### Regulatory costs
-
-These can include capital requirements, reserve requirements, state duties, legal work, company formation, certification, and compliance.
-
-### Technology costs
-
-These include your casino platform, hosting, integrations, games, payments, KYC, CRM, and ongoing technical support.
-
-### Operating costs
-
-These include staff, support, marketing, affiliates, payment costs, compliance, retention, content, and management.
-
-Do not build your business plan around the platform fee alone.
-
-Also remember that some regulatory amounts may be linked to Uzbekistan's Base Reference Value.
-
-That means numbers quoted in an article from last year may already be wrong.
-
-Check the current figures before making investment decisions.
-
-## What Tax Does an Uzbekistan Online Casino Pay?
-
-Uzbekistan's tax framework for gambling activities needs particular attention when preparing a financial model.
-
-The rules may distinguish between gaming income, stakes, winnings paid and other elements of the operator's revenue.
-
-The applicable tax treatment and any special tax arrangements should be checked against the legislation in force on the intended launch date.
-
-Before relying on a specific rate, including the reported 4% turnover tax arrangement associated with a three-year tax experiment beginning on 1 July 2026, confirm that the rule applies to your activity and legal structure.
-
-This is an area where I strongly recommend working with a qualified Uzbekistan tax adviser.
-
-Tax rules affect the entire commercial model.
-
-A difference of a few percentage points can change player bonuses, acquisition costs, affiliate commissions, and expected profit.
-
-Do not rely on an old spreadsheet from another jurisdiction.
-
-## Should You Use Turnkey or Build From Scratch?
-
-For most new operators, I would lean towards existing technology.
-
-Not because custom technology is bad.
-
-Custom platforms can make sense for large companies with very specific requirements and technical resources.
-
-But ask yourself what business you are actually trying to build.
-
-Do you want to become:
-
-A casino operator?
-
-Or:
-
-A casino software development company?
-
-If your advantage is market knowledge, player acquisition, CRM, branding, and operations, there is little reason to spend years rebuilding technology that already exists.
-
-A turnkey approach can allow the operator to focus on the commercial side while a technology provider handles the underlying platform.
-
-But you should still control the things that matter to your business.
-
-Your players.
-
-Your brand.
-
-Your CRM.
-
-Your reporting.
-
-Your marketing.
-
-Your operational decisions.
-
-The key is choosing a provider whose infrastructure meets the market's legal and technical requirements, rather than choosing one based only on price or launch speed.
-
-## What I Would Do Before Spending the First Dollar
-
-If I were preparing an Uzbekistan casino launch today, I would follow this order:
-
-1. Confirm the legal and licensing structure with qualified local counsel.
-2. Establish the correct Uzbekistan company structure.
-3. Calculate regulatory capital, reserve, licence, and operating requirements.
-4. Map the technical requirements created by the licence.
-5. Compare casino platforms against those requirements.
-6. Confirm local hosting and regulatory integrations.
-7. Plan games, payments, KYC, CRM, and operations.
-8. Build and test the platform.
-9. Complete the required regulatory approvals.
-10. Launch only when both the licence and the technology are ready.
-
-That order may look slower.
-
-In reality, it helps prevent expensive rework.
-
-## Frequently Asked Questions
-
-### Is online casino gambling legal in Uzbekistan in 2026?
-
-Uzbekistan permits licensed online risk-based games under its regulated framework. Operators need the appropriate NAPP licence and must meet applicable licensing, technical, financial, and compliance requirements.
-
-### Who regulates online casinos in Uzbekistan?
-
-The National Agency for Prospective Projects, or NAPP, is responsible for regulating and licensing online risk-based games and bookmaking activities.
-
-### Can a foreign company directly operate an online casino in Uzbekistan?
-
-The licensing requirements specify that licensed activities are carried out by legal entities resident in Uzbekistan. International operators should structure market entry around the local legal requirements rather than relying only on a foreign company or offshore licence.
-
-### Does an online casino platform need to be hosted in Uzbekistan?
-
-The licensing framework includes requirements concerning the electronic platform and servers located within Uzbekistan. Operators should confirm the exact infrastructure and data requirements with NAPP, local counsel, and their technology provider.
-
-### Do I need separate licences for casino and sportsbook?
-
-Online risk-based gaming and bookmaking are separate licensed activities. An operator planning to offer both should confirm the required licensing structure before launch.
-
-### Can I use an offshore gambling licence instead?
-
-An offshore licence should not be treated as a substitute for the licence required to operate legally in Uzbekistan.
+Some technology providers offer casino and sportsbook products within one platform. However, the relevant licensing scope, technical requirements and supplier arrangements must be confirmed for each activity before launch.
 
 ### How long does it take to launch?
 
-Platform setup may be completed within weeks when using ready-built technology, but licensing, company formation, regulatory integration, and compliance work follow separate timelines and may take considerably longer.
+The timeline depends on company setup, licensing, documentation, technical preparation, supplier integrations and any required testing or approvals. Do not rely on a fixed launch promise until the regulatory process and project dependencies are understood.
 
-### What is the best casino platform for Uzbekistan?
+### Where can I check whether an operator is licensed?
 
-There is no universal best platform. The right platform is one that can support Uzbekistan's local hosting, player verification, regulatory integration, payments, reporting, games, CRM, and back-office requirements while giving the operator enough control to run the business.
+Start with <a href="https://napp.uz/en/pages/rbglr" target="_blank" rel="nofollow">NAPP's official licence register</a>. If you cannot find the information you need, contact the relevant authority or seek advice from a qualified local professional.
 
-## Final Thoughts
+## Final thoughts
 
-Uzbekistan is an interesting market because the question is no longer whether regulated online gambling will arrive.
+Starting an online casino in Uzbekistan requires careful planning across regulation, technology, payments, compliance and finance. The first step is not choosing a platform. It is confirming which activities you can legally offer and what conditions your business must meet.
 
-It already has a regulatory framework.
+Once those requirements are clear, compare technology providers, obtain detailed quotations and prepare a launch plan that accounts for approvals and ongoing operating costs.
 
-The question now is which operators are prepared to work within the local structure.
+A structured approach can help you avoid expensive changes and make better decisions before entering the market.
 
-Starting an online casino in Uzbekistan requires more than software.
-
-You need:
-
-- A compliant local company.
-- The right licence.
-- Enough capital.
-- Local infrastructure.
-- Player verification.
-- Payments.
-- Games.
-- CRM.
-- Back-office control.
-- A team that knows how to operate the business after launch.
-
-My experience from both consulting and operating has taught me that the companies that struggle are often not the ones with the worst casino websites.
-
-They are the ones that make decisions in the wrong order.
-
-They buy technology before understanding regulation.
-
-They choose games before understanding players.
-
-They spend on acquisition before building retention.
-
-They launch before operations are ready.
-
-Uzbekistan is not a market where I would recommend taking shortcuts.
-
-Understand the licence first.
-
-Build the right structure.
-
-Choose technology around that structure.
-
-Then launch.
-
-That gives you a stronger foundation than trying to fix compliance and infrastructure after players have already arrived.
-
-## About the Author
-
-Alex Brooks is an iGaming consultant and industry writer with more than 10 years of experience in the industry and more than three years of experience from the operator side.
-
-For the past five years, he has also been learning and teaching about cryptocurrency, with a particular focus on how digital assets can be stored securely and used practically rather than treating crypto only as something to trade or speculate on.
-
-His writing focuses on practical questions operators face when entering markets, choosing technology, building player operations, and evaluating how regulation affects the real business behind an online casino.
-
-[Read more about Alex Brooks]({{ '/author/' | relative_url }}).
+For operators exploring their technology options, Playage Gaming provides information about its <a href="https://playagegaming.com/en/market/uzbekistan/turnkey-casino" target="_blank">turnkey casino platform for Uzbekistan</a> and <a href="https://playagegaming.com/en/market/uzbekistan/sportsbook-software" target="_blank">sportsbook software for Uzbekistan</a>. Review the available services against your business requirements and independently confirm their suitability for your intended operating model.
 
 ---
 
-**Disclaimer:** This article is provided for general informational purposes and does not constitute legal, regulatory, tax, or investment advice. Gambling regulation can change, and operators should confirm current requirements with Uzbekistan's National Agency for Prospective Projects, current legislation, and qualified local legal and tax advisers before making commercial decisions.
+## About the author
+
+Alex Brooks writes about iGaming business strategy, casino technology, market entry and operational planning. His work focuses on helping operators understand the practical decisions involved in launching and managing an online gaming business.
+
+<a href="{{ '/author/' | relative_url }}" target="_blank" rel="nofollow">Read more about Alex Brooks</a>.
+
+---
+
+*Disclaimer: This article is for general informational purposes only and does not constitute legal, tax, financial or regulatory advice. Laws, licence conditions and regulatory guidance may change. Always verify current requirements with official sources and qualified professionals before establishing or operating a gambling business.*
