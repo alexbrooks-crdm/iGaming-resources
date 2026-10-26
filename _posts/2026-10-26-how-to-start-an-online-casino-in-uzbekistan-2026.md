@@ -40,6 +40,8 @@ Yes, subject to the applicable licensing requirements.
 
 Uzbekistan introduced a regulated framework for online risk-based games and bookmaking activities from 1 January 2025.
 
+Uzbekistan's [official Presidential Decree PF-68](https://www.lex.uz/docs/6899275?ONDATE=20.05.2026) established the regulatory direction that allowed licensed online risk-based games and bookmaking activities from January 1, 2025.
+
 The National Agency for Prospective Projects, commonly known as NAPP, is responsible for licensing and regulating these activities.
 
 But there is an important condition.
@@ -54,7 +56,7 @@ So the short answer is:
 
 Yes, you can start an online casino in Uzbekistan, but you need to build it around the Uzbekistan licensing framework from the beginning.
 
-If you are still researching the market itself, start with this overview of the [Uzbekistan iGaming market](/iGaming-resources/) before deciding how you want to enter.
+If you are still researching the market itself, start with this overview of the [Uzbekistan iGaming market](https://playagegaming.com/en/market/uzbekistan) before deciding how you want to enter.
 
 ## Step 1: Understand the Uzbekistan Gambling Licence First
 
@@ -89,7 +91,9 @@ For that reason, I would not build a financial model from an old article or thir
 
 Use the current regulations and speak with qualified local legal counsel.
 
-For a more detailed breakdown, read this [Uzbekistan gambling licence guide](/iGaming-resources/) for operators.
+For a more detailed breakdown of the licensing process, requirements, and operator responsibilities, read this [Uzbekistan gambling license guide for operators](https://playagegaming.com/en/blogs/uzbekistan-gambling-license-guide) before preparing your application.
+
+Operators can also check [NAPP's official licence register](https://napp.uz/en/pages/rbglr) to see businesses currently listed under Uzbekistan's regulated online gaming and bookmaking framework.
 
 ## Step 2: Establish the Right Local Company Structure
 
@@ -120,7 +124,9 @@ The regulator may require specific ownership information.
 
 Your banking setup will also depend on the legal entity.
 
-Get this right first.
+According to [NAPP's official regulatory guidance](https://napp.uz/oz/news/lotereyalar-va-tavakkalchilikka-asoslangan-boshqa-o-yinlarni-tartibga-solish-maqsadida-qabul-qilingan-normativ-huquqiy-hujjatlar-yuzasidan-ma-lumot), licensed operators need to meet requirements covering local company structure, technical infrastructure, player records, financial processes, and ongoing compliance.
+
+Get the company structure right first.
 
 ## Step 3: Build a Realistic Budget
 
@@ -187,7 +193,7 @@ That can turn a casino business into a software development company.
 
 A more practical route for many licensed operators is using a ready-built platform.
 
-If you want greater operational control while running under your own licence, a [turnkey casino platform](/iGaming-resources/) configured for your requirements can reduce much of the development work while allowing you to operate your own brand.
+If you want greater operational control while running under your own licence, a [turnkey casino platform for Uzbekistan](https://playagegaming.com/en/market/uzbekistan/turnkey-casino) can remove much of the development work while still allowing you to operate your own brand.
 
 The important thing is not simply whether the provider calls the product "turnkey."
 
@@ -439,7 +445,7 @@ Players should not feel as if they are using a foreign casino that has simply be
 
 The operation should feel designed for the market.
 
-For a broader view of how Uzbekistan fits into the international industry, explore our [iGaming market guides](/iGaming-resources/).
+For a broader view of how Uzbekistan fits into the international iGaming industry, it is also useful to review the latest [online gambling market 2026 analysis](https://playagegaming.com/en/blogs/online-gambling-market-2026) before finalising your expansion strategy.
 
 ## Step 14: Prepare Customer Support Before Launch
 
@@ -510,9 +516,7 @@ Ideally, you want to avoid giving players:
 - Two payment environments.
 - Two separate bonus systems.
 
-If sportsbook is part of your future plan, discuss it during the initial platform selection.
-
-You can also review our [iGaming technology resources](/iGaming-resources/) to understand the infrastructure an operator may need alongside casino operations.
+If sportsbook is part of your future plan, review the available [sportsbook software for Uzbekistan](https://playagegaming.com/en/market/uzbekistan/sportsbook-software) to understand the infrastructure required to manage betting, players, payments, risk, CRM, and daily sportsbook operations.
 
 Casino and bookmaking activities are treated separately under the regulatory framework, so confirm the licensing requirements for both before offering them.
 
@@ -748,7 +752,7 @@ For the past five years, he has also been learning and teaching about cryptocurr
 
 His writing focuses on practical questions operators face when entering markets, choosing technology, building player operations, and evaluating how regulation affects the real business behind an online casino.
 
-[Read more about Alex Brooks](/iGaming-resources/author/).
+[Read more about Alex Brooks]({{ '/author/' | relative_url }}).
 
 ---
 
