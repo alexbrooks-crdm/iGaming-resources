@@ -919,26 +919,6 @@ My suggestion is to shortlist two or three providers, request a product demonstr
 
 A good turnkey casino platform should not only help you launch the business. It should also provide the technology your team needs to manage operations after launch.
 
-## Planning to Launch Your Online Casino in Uzbekistan?
-
-Playage Gaming provides complete Turnkey Casino, White Label Casino, Sportsbook, and Casino + Sportsbook solutions for operators entering new gaming markets.
-
-Whether you are preparing your first online casino or planning to replace your existing platform, we can help you assess the technology, integrations, and implementation requirements for your business.
-
-Our global platform ecosystem includes 20,000+ casino games from 100+ providers, connected player management, payment integrations, CRM, bonuses, affiliate tools, and back-office technology.
-
-We also provide a dedicated Account Manager and 24/7 support through email and Telegram.
-
-Tell us about your casino project, licensing position, target audience, and the platform features you need.
-
-Our team will review your requirements and help you understand the available technology, implementation scope, and commercial options.
-
-**Primary CTA:** Get a Custom Turnkey Casino Quote
-
-**Secondary CTA:** Request a Casino Platform Demo
-
-*150+ iGaming Brands & Operators Launched Worldwide | Dedicated Account Manager | 24/7 Email & Telegram Support*
-
 ---
 
 *Editorial note: This article was prepared using publicly available information reviewed as of November 20, 2026. Provider features, local availability, and commercial arrangements may change. Regulatory figures are based on Uzbekistan's published framework and should be reconfirmed with NAPP and qualified local advisers before making an investment or licensing decision.*
